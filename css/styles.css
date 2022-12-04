@@ -4,6 +4,7 @@
   
   body {
     margin: 0;
+    background-color: crimson;
   }
   
   .navbar {
@@ -38,7 +39,7 @@
   }
   
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: crimson;
   }
   
   .dropdown-content {
@@ -52,7 +53,7 @@
   }
   
   .dropdown-content .header {
-    background: red;
+    background: crimson;
     padding: 16px;
     color: white;
   }
@@ -100,8 +101,14 @@
 
 
 .uncle {
-    margin: 3%;
+    margin: 0%;
     position: relative;
+}
+
+.cesar {
+    margin: 0%;
+    position: relative;
+    
 }
 
 .first-txt {
@@ -109,5 +116,8 @@
     top: 34px;
     left: 100px;
     color: crimson;
-    font-size: x-large;
+    font-size: 300%;
+
 }
+
+
