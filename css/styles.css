@@ -113,11 +113,13 @@
 
 .first-txt {
     position: absolute;
-    top: 34px;
-    left: 100px;
+    top: 200px;
+    bottom: 200px;
+    left: 200px;
+    right: 200px;
     color: crimson;
-    font-size: 300%;
+    font-size: 200%;
+    border: 10px solid crimson
 
 }
-
 
