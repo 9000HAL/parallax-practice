@@ -113,19 +113,21 @@
 
 .first-txt {
     position: absolute;
-    top: 500px;
+    top: 250px;
     bottom: 50px;
     left: 150px;
     right: 150px;
-    color: whitesmoke;
+    color: black;
     font-size: 250%;
     border: 10px solid crimson
 
 }
 
 p {
-    color: crimson;
+    color: white;
     font-size: 75%;
 
 }
+
+button {background-color: lawngreen;}
 
